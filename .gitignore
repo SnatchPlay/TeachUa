@@ -135,4 +135,3 @@ workspace.xml
 # npm
 /node_modules/
 /**/node_modules/
-/public/
